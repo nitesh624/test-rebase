@@ -17,5 +17,6 @@ function course_details_uninstall() {
   if (!empty($nids)) {
     $entities = $nodeStorage->loadMultiple($nids);
     $nodeStorage->delete($entities);
+    This is my second Change
   }
 }
