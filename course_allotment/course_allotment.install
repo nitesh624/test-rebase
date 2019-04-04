@@ -17,5 +17,6 @@ function course_allotment_uninstall() {
   if (!empty($nids)) {
     $entities = $nodeStorage->loadMultiple($nids);
     $nodeStorage->delete($entities);
+    This is my first change
   }
 }
