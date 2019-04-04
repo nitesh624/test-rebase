@@ -1,6 +1,6 @@
 name: 'IITB course allotment content type'
 type: module
-description: 'Course allotment content type'
+description: 'Course allotment content type line 1'
 core: 8.x
 package: 'IITB content type'
 dependencies:
