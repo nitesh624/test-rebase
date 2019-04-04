@@ -1,6 +1,6 @@
 name: 'IITB course details content type'
 type: module
-description: 'Course details content type'
+description: 'Course details content type Tejas 3'
 core: 8.x
 package: 'IITB content type'
 dependencies:
